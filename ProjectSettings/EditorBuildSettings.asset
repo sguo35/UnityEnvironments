@@ -4,4 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scene.unity
+    guid: 5b72f64d486314bf9bdc41f9c5f918cc
+  - enabled: 0
+    path: Assets/Final Scenes/Mini1.unity
+    guid: e7ae48d4ce84a49388aebff249e157f6
+  - enabled: 1
+    path: Assets/Final Scenes/DenseForestEnv.unity
+    guid: 99438d855607d40a7acd1a94e3e7710c
+  m_configObjects: {}
